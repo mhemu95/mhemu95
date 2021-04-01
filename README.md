@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohiuddin Ahammed Hemu
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python django framework and flutter
-- 💞️ I’m looking to collaborate on a good web project
+- 💞️ I’m looking forward to work on a good web project
 - 📫 How to reach me at email:mhemu95@gmail.com contact: +8801701094192
 
 <!---
