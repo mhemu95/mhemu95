@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohiuddin Ahammed Hemu
-- 👀 I’m interested in backend web development
-- 🌱 I’m currently working with python, django framework, django-REST framework, POSTgre SQL, MySQL. 
+- 👀 I’m a Backend Developer
+- 🌱 I’m currently working with python, django framework, django-REST framework, POSTgreSQL, MySQL. 
 - 💞️ I’m looking forward to work on a good web project
 - 📫 You can contact me at email:mhemu95@gmail.com contact: +8801701094192
 
